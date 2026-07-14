@@ -1,0 +1,1 @@
+# Smart-earthquake-machine-fault-detector
